@@ -10,5 +10,4 @@ Using Npm's Ytdl-core module to download videos from youtube
 
 Run `node index.js` in terminal and complete the promts.
 
-![Preview Image]
-(/img/preview.png)
+![Preview Image](https://github.com/sp-des/Youtube-Video-Downloader/blob/master/img/preview.png?raw=true)
